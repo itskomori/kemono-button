@@ -11,7 +11,7 @@ export default defineConfig({
       userscript: {
         name: "Kemono Button",
         namespace: "https://github.com/itskomori",
-        version: "2.0.4",
+        version: "2.0.6",
         author: "itskomori",
         description: "Add button to access artist's page on Kemono or Coomer",
         icon: "https://kemono.su/static/favicon.ico",
